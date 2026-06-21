@@ -2,4 +2,6 @@
 
 BookBot is my first [Boot.dev](https://www.boot.dev) project!§
 
-It was fun when it was made.
+It was fun when it was made
+
+Here is more wisdom.
